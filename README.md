@@ -1,6 +1,6 @@
 # CatalogVR
-## CatalogVR - ваш помощник в мире игр виртуальной реальности
+## CatalogVR - your assistant in the world of virtual reality games
 ![Alt text](UI/ViewProject.jpg)
 
-## Данная программа поможет вам определиться в выборе "Во что поиграть, если есть VR шлем"
-Ознакомтесь с выбранной вами игрой, нажимайте на "Подробнее о игре" и вперед в новые для вас приключения в виртуальной реальности.
+## This program will help you decide what to play if you have a VR helmet
+Check out the game you've chosen, click on "Learn more about the game," and embark on a new virtual reality adventure.
